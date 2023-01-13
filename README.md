@@ -3,7 +3,7 @@
 
 This is my homelab which is my sandbox environment for experiments and learning IT.
 
-It's the **Raspberry Pi 4b** in the Argon ONE V2 aluminum case at my home that I use for self hosting open source services. It's not the most powerful server, but it's very capable and it uses very little power.
+It's the **Raspberry Pi 4b** in the Argon ONE V2 aluminum case at my home that I use for self hosting open source services. It's not the most powerful server, but it's very capable and uses very little power.
 
 Some of the services I self host:
 - [Traefik](https://traefik.io/traefik/) - reverse proxy for exposing all of services
